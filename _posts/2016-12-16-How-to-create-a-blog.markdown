@@ -2,7 +2,9 @@
 layout: post
 title: How to create a blog in GitHub using Jekyll Theme?
 date: 2016-12-16
+author: Alamgir Hossain
 categories: update
+tags: Jekyll GitHub HTML blog
 published: true
 ---
 
