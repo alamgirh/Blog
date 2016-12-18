@@ -62,32 +62,34 @@ descriptions:
 #     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
+# googlescholar_username: citations?user=UabU-5gAAAAJ&hl=en # Google Scholar
+# researchgate_username: M_Alamgir_Hossain # Research Gate
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: 
+    url: https://twitter.com/alamgirmath1
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: alamgir.hossain.507
     url: 
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: alamgirh
+    url: https://github.com/alamgirh
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: M. Alamgir Hossain
+    url: m-alamgir-hossain-60b6a734
     desc: Connect with me on LinkedIn
     share: true
 
@@ -100,7 +102,7 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: 
+    username: UC_oJke0sGWgMclrvirLLdoQ
     url: 
     desc: Subscribe on YouTube
     share: false
@@ -172,6 +174,6 @@ protocols:
 
     twitter_image: "assets/logo.png"
 
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_repo: "https://github.com/alamgirh"
     os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+    os_src: "git@github.com:alamgirh/blogmah.git"
