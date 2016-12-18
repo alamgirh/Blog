@@ -27,13 +27,13 @@ I will describe, step by step, how to build a blog  powered by Jekyll, a fantast
   - Follow the instructions from the readme file provided by the theme developers.
 
 - Step 5: Edit the file _config.yml according to your information. 
-  - Specially edit the  the base hostname & protocol for your site (e.g. url: "https://username.github.io") and the subpath of your site (e.g. baseurl: "/repositoryname/" ) 
+  - Specially edit the base hostname & protocol for your site (e.g. url: "https://username.github.io") and the subpath of your site (e.g. baseurl: "/repositoryname/" ) 
 
 - Step 6: Write your first blog inside the folder _posts. For example, your new file name is 2016-12-16-My-First-Blog.md . You may use [http://prose.io](http://prose.io), which is more convenient that I found. You may change some other files inside the folder _includes to make your blog more personal from the original theme.
 
 ## During this process you need to know the following
 - [GitHub for Beginners](https://guides.github.com/activities/hello-world/) 
-- Basic HTML. I learn HTML 5 from YouTube [Tutorial](https://www.youtube.com/playlist?list=PL1A2CSdiySGIlme1vVXbXBZpK1aDb4TBG) and the Bangla tutorial [বেসিক ওয়েবসাইট ডিজাইন](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/basic-website-design/). This Bangla tutorial is super interesting, if you know only how to on-off a computer you can create a website!  
+- Basic HTML. I learn HTML 5 from YouTube [Tutorial](https://www.youtube.com/playlist?list=PL1A2CSdiySGIlme1vVXbXBZpK1aDb4TBG) and the Bangla tutorial [বেসিক ওয়েবসাইট ডিজাইন](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/basic-website-design/). This Bangla tutorial is super interesting. If you only know how to on-off a computer you can even create a website!  
 - Markdown, a lightweight markup language, is super easy to learn. If I forget anything, I see the [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Basic idea about [Jekyll](https://jekyllrb.com/). I learn Jekyll from YouTube [Tutorial](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-). 
 <br>
