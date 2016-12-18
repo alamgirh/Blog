@@ -8,4 +8,8 @@ permalink: /tutorial/
 tags: Octave Tutorial
 ---
 
-#include "https://github.com/alamgirh/octave-tutorial/blob/master/README.md.md"
+<<[https://github.com/alamgirh/octave-tutorial/blob/master/README.md]
+
+Test
+
+#include "https://github.com/alamgirh/octave-tutorial/blob/master/README.md"
