@@ -7,10 +7,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Alamgir Hossain | Blog
+title: Alamgir Hossain
 subtitle: "PhD Student, Applied Mathematics and Computation, SFU"
 email: alamgirmath@gmail.com
-name: Alamgir Hossain
+name: Alamgir Hossain | Blog
 description: > 
   I created this blog for writing about mathematics, computations, and scientific tools.
 baseurl: "/blogmah/" # the subpath of your site, e.g. /blog/
