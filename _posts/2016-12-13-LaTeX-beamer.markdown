@@ -3,6 +3,8 @@ layout: post
 title: $\LaTeX$ ব্যবহার করে প্রেজেন্টেশন তৈরি 
 date: 2016-12-13
 categories: update
+author: Alamgir Hossain
+tags: LaTeX Beamer Beginner
 ---
 
 <img src="http://i.stack.imgur.com/zHFFO.png" class="fit image"> 
