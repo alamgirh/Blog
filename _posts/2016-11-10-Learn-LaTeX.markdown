@@ -2,7 +2,9 @@
 layout: post
 title: $\LaTeX$ শেখা 
 date: 2016-11-10
+author: Alamgir Hossain
 categories: update
+tags: LaTeX Beginner
 ---
 
 <img src="http://i.stack.imgur.com/zHFFO.png" class="fit image"> 
