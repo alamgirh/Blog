@@ -6,7 +6,10 @@ title: Octave Tutorial
 categories: tutorial
 permalink: /tutorial/
 tags: Octave Tutorial
+content: https://github.com/alamgirh/octave-tutorial/blob/master/README.md
 ---
+
+{{md  README }} 
 
 <<[https://github.com/alamgirh/octave-tutorial/blob/master/README.md]
 
