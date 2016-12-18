@@ -12,7 +12,7 @@ subtitle: "PhD Student, Applied and Computational Mathematics, SFU"
 email: alamgirmath@gmail.com
 name: Alamgir Hossain | Blog
 description: > 
-  I created this blog for writing about mathematics, computations, and scientific tools.
+  I'm Alamgir Hossain, a PhD student of Applied and Computational Mathematics, SFU.
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://alamgirh.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -88,7 +88,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: M. Alamgir Hossain
+    username: Alamgir Hossain
     url: https://ca.linkedin.com/in/m-alamgir-hossain-60b6a734
     desc: Connect with me on LinkedIn
     share: true
