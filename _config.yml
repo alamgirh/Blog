@@ -7,12 +7,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Alamgir Hossain
+subtitle: "PhD Student, Applied Mathematics and Computation, SFU"
+email: alamgirmath@gmail.com
+name: Alamgir Hossain
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  I created this blog for writing about mathematics, computations, and scientific tools.
 baseurl: "/blogmah/" # the subpath of your site, e.g. /blog/
 url: "http://alamgirh.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -34,7 +34,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: alamgir
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
