@@ -13,7 +13,7 @@ email: alamgirmath@gmail.com
 name: Alamgir Hossain | Blog
 description: > 
   I created this blog for writing about mathematics, computations, and scientific tools.
-baseurl: "/blogmah/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://alamgirh.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
