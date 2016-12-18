@@ -5,7 +5,6 @@ date: 2016-11-10
 author: Alamgir Hossain
 categories: update
 tags: LaTeX Beginner
-cover: "assets/header_image.jpg"
 ---
 
 <img src="http://i.stack.imgur.com/zHFFO.png" class="fit image"> 
