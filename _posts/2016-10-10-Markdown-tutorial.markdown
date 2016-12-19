@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 date: 2016-10-10
 author: Alamgir Hossain
 title: Markdown Tutorial
