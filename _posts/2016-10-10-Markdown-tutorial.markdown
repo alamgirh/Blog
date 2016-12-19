@@ -111,7 +111,7 @@ $d = b^2-4ac$;  (comment about roots)
 | d = b^2-4ac    | d = b^2-4ac     | d = b^2-4ac   | comment about roots         |
 |:---------------|:---------------:|--------------:|-----------------------------|
 | d>0            | d>0             | d>0           | roots are real and distinct |
-| d = 0          | d = 0           | d = 0         | roots are real and same     |        |
+| d = 0          | d = 0           | d = 0         | roots are real and same     |  
 ```
 
 ### Figure
@@ -144,6 +144,7 @@ def vertex(a,b,c):
    y0 = c-b*b/(4.0*a)
    return [x0, y0];
 ```
+
 ```
 
 ### Horizontal Rule
