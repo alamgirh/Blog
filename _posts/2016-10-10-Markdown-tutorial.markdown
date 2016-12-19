@@ -138,15 +138,12 @@ def vertex(a,b,c):
 #### Code
 
 ```markdown
-<br>
 ```python
 def vertex(a,b,c):
    x0 = -b/(2.0*a)
    y0 = c-b*b/(4.0*a)
    return [x0, y0];
-```
-<br>
-```
+``` ```
 
 ### Horizontal Rule
 
