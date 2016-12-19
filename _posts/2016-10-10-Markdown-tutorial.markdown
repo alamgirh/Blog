@@ -147,23 +147,29 @@ def vertex(a,b,c):
 
 three or more Hyphens, Asterisks or Underscores e.g.
 
-roots are real and distinct 
+roots are real and distinct
+
 ---
 
 roots are real and same
+
 ***
 
 roots are complex
+
 ___
 
 ```markdown
 roots are real and distinct 
+
 ---
 
 roots are real and same
+
 ***
 
 roots are complex
+
 ___
 ```
 
@@ -173,7 +179,8 @@ ___
 > Don't be afraid to work, don't be afraid to try,
 > don't be afraid to network, and don't be shy!
 
-Another example
+Another quote
+
 > Hope is a good thing, maybe the best of things, and no good thing ever dies. -Andy Dufresne (The Shawshank Redemption)
 
 #### Code
