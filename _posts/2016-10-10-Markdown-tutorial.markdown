@@ -4,7 +4,6 @@ date: 2016-10-10
 author: Alamgir Hossain
 title: Markdown Tutorial
 categories: tutorial
-permalink: /tutorial/
 tags: Markdown Tutorial
 ---
 
