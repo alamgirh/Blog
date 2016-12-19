@@ -7,8 +7,6 @@ categories: tutorial
 tags: Markdown Tutorial
 ---
 
-[Markdown](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
-
 ### Headings
 
 # Headings 1
@@ -137,12 +135,15 @@ def vertex(a,b,c):
 #### Code
 
 ```markdown
+
 ```python
 def vertex(a,b,c):
    x0 = -b/(2.0*a)
    y0 = c-b*b/(4.0*a)
    return [x0, y0];
-``` ```
+``` 
+
+```
 
 ### Horizontal Rule
 
@@ -184,5 +185,6 @@ Another example
 > don't be afraid to network, and don't be shy!
 
 Another example
+
 > Hope is a good thing, maybe the best of things, and no good thing ever dies. -Andy Dufresne (The Shawshank Redemption)
 ```
