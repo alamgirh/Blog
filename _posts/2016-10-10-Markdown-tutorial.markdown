@@ -10,10 +10,15 @@ tags: Markdown Tutorial
 ### Headings
 
 # Headings 1
+
 ## Headings 2
+
 ### Headings 3
+
 #### Headings 4
+
 #### Headings 5
+
 ##### Headings 6
 
 #### Code
