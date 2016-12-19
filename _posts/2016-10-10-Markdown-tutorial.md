@@ -7,6 +7,10 @@ categories: tutorial
 tags: Markdown Tutorial
 ---
 
+Markdown is a fantastic lightweight markup language which is super easy to learn. I am using Markdown for
+- writing blogs in GitHub and
+- writing notes in Jupyter notebook.
+
 ### Headings
 
 # Headings 1
