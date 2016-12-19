@@ -148,7 +148,7 @@ def vertex(a,b,c):
    ```
 ``` 
 
-### Horizontal Rule
+<h3> Horizontal Rule</h3>
 
 three or more Hyphens, Asterisks or Underscores e.g.
 
