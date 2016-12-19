@@ -147,7 +147,7 @@ def vertex(a,b,c):
 
 ### Horizontal Rule
 
-three or more Hyphens (---), Asterisks (***) or Underscores (___). e.g.
+three or more Hyphens, Asterisks or Underscores e.g.
 
 roots are real and distinct 
 ---
