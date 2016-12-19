@@ -110,25 +110,18 @@ $d = b^2-4ac$;  (comment about roots)
 
 ### Table
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-| d = b^2-4ac | d = b^2-4ac | d = b^2-4ac | comment about roots         |
-| ----------- |:-----------:| -----------:| --------------------------- |
-| d>0         | d>0         | d>0         | roots are real and distinct |
-| d = 0       | d = 0       | d = 0       | roots are real and same     |
+| d = b^2-4ac | d = b^2-4ac | comment about roots         |
+| ----------- |:-----------:| ---------------------------:|
+| d>0         | d>0         | roots are real and distinct |
+| d = 0       | d = 0       | roots are real and same     |
 
 #### Code 
 
 ```markdown
-| d = b^2-4ac   | d = b^2-4ac     | d = b^2-4ac   | comment about roots         |
-| ------------- |:---------------:| -------------:| --------------------------- |
-| d>0           | d>0             | d>0           | roots are real and distinct |
-| d = 0         | d = 0           | d = 0         | roots are real and same     |  
+| d = b^2-4ac | d = b^2-4ac | comment about roots         |
+| ----------- |:-----------:| ---------------------------:|
+| d>0         | d>0         | roots are real and distinct |
+| d = 0       | d = 0       | roots are real and same     |
 ```
 
 ### Figure
