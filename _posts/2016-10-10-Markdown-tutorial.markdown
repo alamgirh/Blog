@@ -5,7 +5,7 @@ author: Alamgir Hossain
 title: Markdown Tutorial
 categories: tutorial
 permalink: /tutorial/
-tags: Matlab Tutorial
+tags: Markdown Tutorial
 ---
 
 <img align=center src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" width="350px" style="margin: 20px auto;">
@@ -138,12 +138,12 @@ def vertex(a,b,c):
 #### Code
 
 ```markdown
-```python
+```Python
 def vertex(a,b,c):
    x0 = -b/(2.0*a)
    y0 = c-b*b/(4.0*a)
    return [x0, y0];
-   ```
+```
 ```
 
 ### Horizontal Rule
