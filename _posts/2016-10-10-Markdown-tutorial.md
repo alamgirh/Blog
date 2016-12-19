@@ -12,7 +12,7 @@ Markdown is a fantastic lightweight markup language which is super easy to learn
 - writing blogs in GitHub and
 - writing notes in Jupyter notebook.
 
-In the following, I am presenting Markdown code for wrinting heading, table, quote, inserting image, links etc.
+In the following, I am presenting Markdown code for writing headings, table, quote, inserting image, links etc.
 
 
 ### Headings
@@ -110,10 +110,10 @@ $d = b^2-4ac$;  (comment about roots)
 
 ### Table
 
-| d = b^2-4ac | d = b^2-4ac | d = b^2-4ac | comment about roots         |
-|-------------|:-----------:|------------:|-----------------------------|
-| d>0         | d>0         | d>0         | roots are real and distinct |
-| d = 0       | d = 0       | d = 0       | roots are real and same     |
+ | d = b^2-4ac | d = b^2-4ac | d = b^2-4ac | comment about roots         |
+ | ----------- |:-----------:|------------:|-----------------------------|
+ | d>0         | d>0         | d>0         | roots are real and distinct |
+ | d = 0       | d = 0       | d = 0       | roots are real and same     |
 
 #### Code 
 
