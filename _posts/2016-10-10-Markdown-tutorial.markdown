@@ -120,12 +120,12 @@ $d = b^2-4ac$;  (comment about roots)
 
 If we have a figure and the file name is quadraticplots.png then the markdown code for showing this figure is
 
-![LaTex: Quadratic Functions](../figure/quadraticplots.png)
+![Quadratic Functions](https://raw.githubusercontent.com/alamgirh/alamgirh.github.io/master/blog/latex-presentation-tutorial/quadraticplots.png)
 
 #### Code (Markdown)
 
 ```markdown
-![LaTex: Quadratic Functions](figure/quadraticplots.png)
+![Quadratic Functions](quadraticplots.png)
 ```
 
 ### Showing Code
