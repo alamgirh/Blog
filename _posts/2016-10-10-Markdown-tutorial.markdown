@@ -8,7 +8,7 @@ permalink: /tutorial/
 tags: Markdown Tutorial
 ---
 
-<img align=center src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" width="350px" style="margin: 20px auto;">
+[Markdown](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
 
 ### Headings
 
